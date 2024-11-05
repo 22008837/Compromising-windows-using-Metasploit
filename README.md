@@ -1,9 +1,9 @@
 # EX 6: Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
-``
+```
 Name: Prabha C
 Register no:212222110032
-``
+```
 # Metasploit
 Compromising windows using Metasploit
 
